@@ -1,8 +1,8 @@
 /* AIM: WAP to maintain a simple employee database using file handling.
-Name  : Muntazir patel
+Name  : Amaan Ansari
 Class : FE
-UIN   : 241A012
-ROLL  : 12
+UIN   : 241A064
+ROLL  : 55
 DIV   : A
 */
 #include <stdio.h>
